@@ -1,4 +1,4 @@
-# WiFiEnterprise Library
+# ESP32WiFiEnterprise Library
 
 [![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue.svg)](https://www.arduino.cc/reference/en/libraries/)
 [![ESP32](https://img.shields.io/badge/ESP32-Compatible-green.svg)](https://www.espressif.com/en/products/socs/esp32)
@@ -38,14 +38,14 @@ A lightweight, easy-to-use Arduino-style library that allows ESP32 devices to co
 
 1. Open Arduino IDE
 2. Go to **Sketch** → **Include Library** → **Manage Libraries**
-3. Search for "WiFiEnterprise"
+3. Search for "ESP32WiFiEnterprise"
 4. Click **Install**
 
 ### Method 2: Manual Installation
 
 1. Download the latest release from [GitHub](https://github.com/RacoonX65/WiFiEnterprise/releases)
 2. Extract the ZIP file
-3. Copy the `WiFiEnterprise` folder to your Arduino libraries directory:
+3. Copy the `ESP32WiFiEnterprise` folder to your Arduino libraries directory:
    - **Windows**: `Documents\Arduino\libraries\`
    - **macOS**: `~/Documents/Arduino/libraries/`
    - **Linux**: `~/Arduino/libraries/`
