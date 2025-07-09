@@ -1,12 +1,8 @@
 # ESP32WiFiEnterprise Library
 
-[![Library Manager](https://img.shields.io/badge/Library%20Manager-ESP32WiFiEnterprise%201.0.1-brightgreen.svg)](https://www.arduino.cc/reference/en/libraries/esp32wifienterprise/)
-[![Arduino Library Specification](https://img.shields.io/badge/Arduino%20Library%20Specification-1.5-blue.svg)](https://arduino.github.io/arduino-cli/latest/library-specification/)
-[![Arduino Library CI](https://img.shields.io/badge/Arduino%20Library%20CI-passing-brightgreen.svg)](https://github.com/RacoonX65/WiFiEnterprise/actions)
-[![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg)](https://github.com/RacoonX65/WiFiEnterprise/releases/tag/v1.0.0)
-[![ESP32](https://img.shields.io/badge/ESP32-Compatible-green.svg)](https://www.espressif.com/en/products/socs/esp32)
+[![ArduBadge](https://www.ardu-badge.com/badge/ESP32WiFiEnterprise.svg)](https://www.ardu-badge.com/ESP32WiFiEnterprise)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/RacoonX65/WiFiEnterprise/blob/master/LICENSE)
-
+[![ESP32](https://img.shields.io/badge/ESP32-Compatible-green.svg)](https://www.espressif.com/en/products/socs/esp32)
 A lightweight, easy-to-use Arduino-style library that allows ESP32 devices to connect to **WPA2-Enterprise networks** (EAP-PEAP) using only SSID, username, and password — similar to connecting to a normal Wi-Fi network.
 
 ## ✨ Features
