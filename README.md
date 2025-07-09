@@ -7,6 +7,22 @@
 
 A lightweight, easy-to-use Arduino-style library that allows ESP32 devices to connect to **WPA2-Enterprise networks** (EAP-PEAP) using only SSID, username, and password — similar to connecting to a normal Wi-Fi network.
 
+## 📑 Table of Contents
+
+- [✨ Features](#-features)
+- [🎯 Version 1.0.0 Goals](#-version-100-goals)
+- [📋 Requirements](#-requirements)
+- [📦 Installation](#-installation)
+  - [Method 1: Arduino Library Manager (Recommended)](#method-1-arduino-library-manager-recommended)
+  - [Method 2: Manual Installation](#method-2-manual-installation)
+- [🚀 Quick Start](#-quick-start)
+- [📚 API Reference](#-api-reference)
+  - [WiFiEnterpriseClass](#wifienterpriseclassbeginssid-username-password-enabledebug)
+- [📖 Examples](#-examples)
+- [🔧 Troubleshooting](#-troubleshooting)
+  - [Common Issues](#common-issues)
+  - [Debug Output](#debug-output)
+
 ## ✨ Features
 
 - 🚀 **Simple Arduino-style API** - Just call `WiFiEnterprise.begin(ssid, username, password)`
