@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For WiFiEnterprise
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+WiFiEnterpriseClass	KEYWORD1
+WiFiEnterprise	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+isConnected	KEYWORD2
+status	KEYWORD2
+localIP	KEYWORD2
+setDebug	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
