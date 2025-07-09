@@ -2,7 +2,7 @@
 
 [![Arduino Library](https://img.shields.io/badge/Arduino-Library-blue.svg)](https://www.arduino.cc/reference/en/libraries/)
 [![ESP32](https://img.shields.io/badge/ESP32-Compatible-green.svg)](https://www.espressif.com/en/products/socs/esp32)
-[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/your-username/WiFiEnterprise/releases)
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](https://github.com/RacoonX65/WiFiEnterprise/releases)
 
 A lightweight, easy-to-use Arduino-style library that allows ESP32 devices to connect to **WPA2-Enterprise networks** (EAP-PEAP) using only SSID, username, and password — similar to connecting to a normal Wi-Fi network.
 
@@ -43,7 +43,7 @@ A lightweight, easy-to-use Arduino-style library that allows ESP32 devices to co
 
 ### Method 2: Manual Installation
 
-1. Download the latest release from [GitHub](https://github.com/your-username/WiFiEnterprise/releases)
+1. Download the latest release from [GitHub](https://github.com/RacoonX65/WiFiEnterprise/releases)
 2. Extract the ZIP file
 3. Copy the `WiFiEnterprise` folder to your Arduino libraries directory:
    - **Windows**: `Documents\Arduino\libraries\`
@@ -230,7 +230,7 @@ If you encounter any issues or have questions:
 
 1. Check the [troubleshooting section](#-troubleshooting)
 2. Look at the [examples](examples/)
-3. Open an [issue on GitHub](https://github.com/your-username/WiFiEnterprise/issues)
+3. Open an [issue on GitHub](https://github.com/RacoonX65/WiFiEnterprise/issues)
 
 ---
 
